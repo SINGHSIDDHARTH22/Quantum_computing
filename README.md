@@ -1,8 +1,13 @@
 # Quantum_computing
+
 **Quantum Cryptography with Continuous-Variable Quantum Neural Network (CV-QNN)**
+
 **Overview**
+
 **Project by:** Siddharth Singh and Dhruv Desai
+
 **Supervised by:** Prof. T S L Radhika
+
 **Institution:** Birla Institute of Technology and Science Pilani, Hyderabad Campus
 
 This project presents a novel method for quantum cryptography using a Continuous-Variable Quantum Neural Network (CV-QNN). It aims to establish a secure quantum cryptography technique against both classical and quantum computer attacks.
